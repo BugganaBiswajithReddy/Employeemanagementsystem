@@ -10,14 +10,31 @@
 
 ## Overview
 
-EMS is a single-page React app backed by Firebase Firestore. Admins manage the full employee lifecycle (profiles, attendance, projects, payroll, reports), while employees get their own portal to view their attendance, payslips, and profile. All data syncs to Firestore in real time, so changes made by an admin appear live for anyone else viewing the app.
+EMS is a single-page React app backed by Firebase Firestore. Admins manage the full employee lifecycle (profiles, attendance, projects, payroll, reports), while employees get their own portal to view [...]
 
 ## Why EMS?
 
-Employee data is often spread across spreadsheets and disconnected systems, making attendance, payroll, and reporting difficult to manage. EMS centralizes workforce operations into one real-time platform, giving administrators a single source of truth while enabling employees to access their own records through a self-service portal.
-##Images 
+Employee data is often spread across spreadsheets and disconnected systems, making attendance, payroll, and reporting difficult to manage. EMS centralizes workforce operations into one real-time platf[...]
+
+## Images 
 
 🎥Demo video [Click here to watch video](https://drive.google.com/file/d/1jL3xwIz6Eq0CtLZUOTkOcgyuDCJUrE0D/view?usp=drive_link)
+
+<div align="center">
+
+![Login screen](assets/images/overview-1.png)
+*Login page*
+
+![Dashboard overview](assets/images/overview-2.png)
+*Dashboard overview*
+
+![Payslips list](assets/images/overview-3.png)
+*Payslips list*
+
+![Payslip details](assets/images/overview-4.png)
+*Payslip details*
+
+</div>
 
 ## Table of Contents
 
@@ -40,14 +57,14 @@ EMS is built for small teams and organizations that need core HR functionality w
 
 - 🏢 **Small businesses** — manage employees and payroll without dedicated HR software
 - 👔 **HR admins** — track attendance, leave, and salary structures from one dashboard
-- 💰 **Payroll teams** — auto-generate payslips from attendance data over any date range
+- 💰 **Payroll teams** — auto-generate payslips from attendance records over any date range
 - 👥 **Employees** — self-service access to attendance history, payslips, and profile
 - 📊 **Managers** — analytics on department breakdown, salary distribution, and attendance trends
 
 ## Features
 
 - 🔐 **Dual login** — separate Admin and Employee sign-in flows (`UnifiedLogin`), with forced password change on an employee's first login.
-- 🧑‍🤝‍🧑 **Employee management** — add/edit/remove employee profiles: contact info, department, designation, bank details, salary structure (basic, DA, HRA, medical, other allowances/deductions), and leave balance.
+- 🧑‍🤝‍🧑 **Employee management** — add/edit/remove employee profiles: contact info, department, designation, bank details, salary structure (basic, DA, HRA, medical, other allowances/ded[...]
 - 🕒 **Attendance tracking** — mark daily attendance per employee (Present, Absent, Leave, Out of Station, Half Day, Late Arrival), with check-in/out times and working hours.
 - 📁 **Projects** — create projects, assign employees, and track status (Not Started, In Progress, On Hold, Completed).
 - 💵 **Payroll / payslips** — auto-calculated payslips derived from attendance records over a date range (payable days, total earnings, deductions, net salary) with payment status tracking.
@@ -85,7 +102,7 @@ npm install
 # 3. Configure Firebase
 ```
 
-Replace the placeholder values in `firebase-applet-config.json` with your own Firebase web app config (Firebase Console → Project Settings → General → Your apps), and deploy `firestore.rules` to your project.
+Replace the placeholder values in `firebase-applet-config.json` with your own Firebase web app config (Firebase Console → Project Settings → General → Your apps), and deploy `firestore.rules` to[...]
 
 ```bash
 # 4. Run the app
@@ -141,27 +158,27 @@ employee-management-system/
 
 ## Challenges & Learnings
 
-Building the Employee Management System involved more than implementing features—it required designing a scalable application capable of managing multiple HR workflows while maintaining a simple and intuitive user experience.
+Building the Employee Management System involved more than implementing features—it required designing a scalable application capable of managing multiple HR workflows while maintaining a simple and[...]
 
 ### Firestore Data Modeling
 
-Designing a scalable Firestore data model was one of the primary challenges. The application stores employees, attendance, payroll, reports, projects, and authentication data across multiple collections while maintaining real-time synchronization and efficient querying.
+Designing a scalable Firestore data model was one of the primary challenges. The application stores employees, attendance, payroll, reports, projects, and authentication data across multiple collectio[...]
 
 ### Role-Based Access
 
-The application supports separate Administrator and Employee portals. Designing the application to provide different permissions and interfaces while sharing the same underlying data required implementing role-based access throughout the system.
+The application supports separate Administrator and Employee portals. Designing the application to provide different permissions and interfaces while sharing the same underlying data required implemen[...]
 
 ### Payroll & Attendance Integration
 
-Generating payroll required combining attendance records with employee salary structures, allowances, deductions, and payable working days. Building this workflow helped in designing business logic that accurately generates employee payslips.
+Generating payroll required combining attendance records with employee salary structures, allowances, deductions, and payable working days. Building this workflow helped in designing business logic th[...]
 
 ### Real-Time Synchronization
 
-Ensuring that updates made by administrators were reflected instantly across the application was another important challenge. Firestore's real-time listeners were used to synchronize employee records, attendance, payroll, and project data without requiring manual refreshes.
+Ensuring that updates made by administrators were reflected instantly across the application was another important challenge. Firestore's real-time listeners were used to synchronize employee records,[...]
 
 ### Building a Modular Application
 
-As the project grew, maintaining clean and reusable code became increasingly important. The application was organized into reusable React components and separate utility modules, making it easier to maintain, extend, and scale with additional HR features.
+As the project grew, maintaining clean and reusable code became increasingly important. The application was organized into reusable React components and separate utility modules, making it easier to m[...]
 
 ### Key Learnings
 
