@@ -1,0 +1,61 @@
+{
+  "entities": {
+    "Employee": {
+      "title": "Employee",
+      "description": "Employee details",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "name": { "type": "string" },
+        "mobile": { "type": "string" },
+        "email": { "type": "string" },
+        "department": { "type": "string" },
+        "designation": { "type": "string" },
+        "dateOfJoining": { "type": "string" },
+        "status": { "type": "string", "enum": ["Active", "Inactive"] },
+        "basicSalary": { "type": "number" },
+        "password": { "type": "string" },
+        "hasChangedPassword": { "type": "boolean" }
+      },
+      "required": ["id", "name"]
+    },
+    "AttendanceRecord": {
+      "title": "Attendance Record",
+      "description": "Attendance log for an employee",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "employeeId": { "type": "string" },
+        "date": { "type": "string" },
+        "status": { "type": "string" }
+      },
+      "required": ["id", "employeeId", "date"]
+    }
+  },
+  "firestore": {
+    "employees": {
+      "schema": { "$ref": "#/entities/Employee" },
+      "description": "Collection of employees"
+    },
+    "attendance": {
+      "schema": { "$ref": "#/entities/AttendanceRecord" },
+      "description": "Collection of attendance records"
+    },
+    "payslips": {
+      "schema": "Payslip",
+      "description": "Collection of payslips"
+    },
+    "projects": {
+      "schema": "Project",
+      "description": "Collection of projects"
+    },
+    "activities": {
+      "schema": "Activity",
+      "description": "Collection of activity logs"
+    },
+    "reports": {
+      "schema": "Report",
+      "description": "Collection of reports"
+    }
+  }
+}
