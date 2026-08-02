@@ -14,7 +14,9 @@ Employee Management System (EMS) is a web-based workforce management platform th
 
 ## Why EMS?
 
-Employee data is often spread across spreadsheets and disconnected systems, making attendance, payroll, and reporting difficult to manage. EMS centralizes workforce operations into one real-time platf[...]
+## Why EMS?
+
+Employee information is often scattered across spreadsheets and disconnected systems, making workforce management, attendance, payroll, reporting, and analytics difficult to maintain. EMS brings these operations together into a single real-time platform, giving administrators a centralized system to manage employees while providing employees with secure self-service access to their profiles, attendance records, and payslips.
 
 ## Images
 
