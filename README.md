@@ -107,64 +107,6 @@ EMS is built for small teams and organizations that need core HR functionality w
 - A [Firebase](https://firebase.google.com/) project with Firestore enabled (
 - A Firebase api key is needed to store the data in cloud.
 
-## Challenges & Learnings
-
-Building PM Strategist involved more than integrating AI into a web application—it required designing an end-to-end product planning platform capable of transforming a single project idea into a structured, interactive roadmap while maintaining consistency across multiple planning views.
-
-### AI Roadmap Generation
-
-One of the biggest challenges was generating structured and reliable project roadmaps from natural language input. The application was designed to use structured prompts and predefined JSON schemas to ensure AI responses remained consistent while adapting to different project requirements.
-
-### Product Workflow Design
-
-Designing PM Strategist required translating real-world product management workflows into an intuitive application. The challenge was creating a seamless experience that guides users from idea generation to roadmap planning, task organization, dependency analysis, budgeting, risk assessment, and project execution.
-
-### Unified Data Architecture
-
-Multiple planning modules—including the Roadmap View, Kanban Board, Dependency Network, Budget Dashboard, Risk Matrix, Resource Workload, and Progress Tracking—share the same underlying roadmap data. Designing a unified data structure that keeps every view synchronized while supporting AI-driven updates was a key architectural challenge.
-
-### Interactive AI Refinement
-
-Allowing users to modify roadmaps through conversational AI required ensuring that every refinement remained consistent across tasks, timelines, budgets, risks, and dependencies without breaking the overall project structure.
-
-### Building a Scalable Application
-
-As new planning modules were introduced, maintaining reusable React components and separating business logic from presentation became essential for scalability, maintainability, and future feature expansion.
-
-### Key Learnings
-
-- Designed structured AI workflows using prompt engineering and JSON-based responses.
-- Translated product management concepts into an interactive application by designing workflows for roadmap generation, task prioritization, dependency visualization, budgeting, and risk analysis.
-- Built multiple project management visualizations from a unified roadmap data model.
-- Improved application scalability through reusable React components and modular architecture.
-- Gained practical experience designing AI-assisted planning tools that balance flexible AI output with predictable application behavior.
-- Strengthened my understanding of product planning, solution architecture, and user-centric workflow design.
-
-## Roadmap
-
-Planned enhancements for future releases:
-
-- 👥 **Team collaboration** — invite teammates onto a roadmap with shared, real-time editing
-- 🗂️ **Shared workspaces** — group roadmaps under a team or client workspace instead of per-user
-- 🔑 **Role-based access** — Owner/Editor/Viewer permissions per roadmap or workspace
-- 🏢 **Organization-wide planning** — cross-roadmap visibility for teams managing multiple projects at once
-
-Have a feature request? Open an issue to discuss it.
-
-## Contributing
-
-Issues and pull requests are welcome. If you're adding a feature, please open an issue first to discuss what you'd like to change.
-
-1. Fork the repo
-2. Create a branch (`git checkout -b feature/my-feature`)
-3. Commit your changes
-4. Push and open a PR
-
-## License
-
-This project is licensed under the [MIT License]
-
-
 ## Getting Started
 
 ```bash
@@ -280,4 +222,4 @@ Planned enhancements for future releases:
 
 ## License
 
-This project is licensed under the MIT License. See the (LICENSE) file for details.
+This project is licensed under the [MIT License].
