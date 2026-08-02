@@ -49,7 +49,7 @@ Employee data is often spread across spreadsheets and disconnected systems, maki
   </tr>
 </table>
 
-## Video Link
+## Video link
 
 🎥Demo video - [Click here to watch video](https://drive.google.com/file/d/1jL3xwIz6Eq0CtLZUOTkOcgyuDCJUrE0D/view?usp=drive_link)
 
