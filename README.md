@@ -219,4 +219,6 @@ Planned enhancements for future releases:
 
 ## License
 
-No license file is currently included in this repository. Add a `LICENSE` file (e.g. MIT) if you intend to open-source this project.
+## License
+
+This project is licensed under the MIT License. See the (LICENSE) file for details.
