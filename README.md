@@ -21,22 +21,30 @@ Employee data is often spread across spreadsheets and disconnected systems, maki
 <table>
   <tr>
     <td style="vertical-align:top; text-align:center">
-      <a href="https://drive.google.com/file/d/1Sch8aTgr6ZPwjF9XDdtq5WjhAfIpfjAw/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1Sch8aTgr6ZPwjF9XDdtq5WjhAfIpfjAw" alt="Login screen" style="max-width:420px; width:100%; height:auto;"/></a>
+      <a href="https://drive.google.com/file/d/1Sch8aTgr6ZPwjF9XDdtq5WjhAfIpfjAw/view?usp=drive_link"><img src="https://drive.google.com/uc?export=view&id=1Sch8aTgr6ZPwjF9XDdtq5WjhAfIpfjAw" alt="Login screen" style="max-width:420px; width:100%; height:auto;"/></a>
       <div style="margin-top:8px; font-weight:700">Login page</div>
     </td>
     <td style="vertical-align:top; text-align:center">
-      <a href="https://drive.google.com/file/d/1mvNUzJqRe0LkTEOkPQUw7hgmbbH4XT4M/view?usp=drive_link"><img src="https://drive.google.com/uc?export=view&id=1mvNUzJqRe0LkTEOkPQUw7hgmbbH4XT4M" alt="Dashboard overview" style="max-width:420px; width:100%; height:auto;"/></a>
+      <a href="https://drive.google.com/file/d/1mvNUzJqRe0LkTEOkPQUw7hgmbbH4XT4M/view?usp=drive_link"><img src="https://drive.google.com/uc?export=view&id=1mvNUzJqRe0LkTEOkPQUw7hgmbbH4XT4M" alt="Admin dashboard" style="max-width:420px; width:100%; height:auto;"/></a>
       <div style="margin-top:8px; font-weight:700">Admin dashboard</div>
+    </td>
+    <td style="vertical-align:top; text-align:center">
+      <a href="https://drive.google.com/file/d/1vQRMJe_jVA2OQOR7IjGPHdK-RweHIm40/view?usp=drive_link"><img src="https://drive.google.com/uc?export=view&id=1vQRMJe_jVA2OQOR7IjGPHdK-RweHIm40" alt="Payslip module" style="max-width:420px; width:100%; height:auto;"/></a>
+      <div style="margin-top:8px; font-weight:700">Payslip module</div>
     </td>
   </tr>
   <tr>
     <td style="vertical-align:top; text-align:center">
-      <a href="https://drive.google.com/file/d/1vQRMJe_jVA2OQOR7IjGPHdK-RweHIm40/view?usp=drive_link"><img src="https://drive.google.com/uc?export=view&id=1vQRMJe_jVA2OQOR7IjGPHdK-RweHIm40" alt="Payslips list" style="max-width:420px; width:100%; height:auto;"/></a>
-      <div style="margin-top:8px; font-weight:700">Payslip module</div>
+      <a href="https://drive.google.com/file/d/14cWV8iJiZDFNR-k5q7HbuPfucq05Wt1X/view?usp=drive_link"><img src="https://drive.google.com/uc?export=view&id=14cWV8iJiZDFNR-k5q7HbuPfucq05Wt1X" alt="Payslip details" style="max-width:420px; width:100%; height:auto;"/></a>
+      <div style="margin-top:8px; font-weight:700">Payslip Details</div>
     </td>
     <td style="vertical-align:top; text-align:center">
-      <a href="assets/images/overview-4.png"><img src="assets/images/overview-4.png" alt="Payslip details" style="max-width:420px; width:100%; height:auto;"/></a>
-      <div style="margin-top:8px; font-weight:700">Payslip details</div>
+      <a href="https://drive.google.com/file/d/18AExBuE4suc35LkAkjHWHUpI0OpR0ilT/view?usp=drive_link"><img src="https://drive.google.com/uc?export=view&id=18AExBuE4suc35LkAkjHWHUpI0OpR0ilT" alt="Report hub" style="max-width:420px; width:100%; height:auto;"/></a>
+      <div style="margin-top:8px; font-weight:700">Report hub</div>
+    </td>
+    <td style="vertical-align:top; text-align:center">
+      <a href="https://drive.google.com/file/d/1ijeu8oJUsmxZ4aOmBXUi2vKC3TRL7OT7/view?usp=drive_link"><img src="https://drive.google.com/uc?export=view&id=1ijeu8oJUsmxZ4aOmBXUi2vKC3TRL7OT7" alt="Employee Dashboard" style="max-width:420px; width:100%; height:auto;"/></a>
+      <div style="margin-top:8px; font-weight:700">Employee Dashboard</div>
     </td>
   </tr>
 </table>
