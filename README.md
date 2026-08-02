@@ -16,25 +16,32 @@ EMS is a single-page React app backed by Firebase Firestore. Admins manage the f
 
 Employee data is often spread across spreadsheets and disconnected systems, making attendance, payroll, and reporting difficult to manage. EMS centralizes workforce operations into one real-time platf[...]
 
-## Images 
+## Images
+
+<table>
+  <tr>
+    <td style="vertical-align:top; text-align:center">
+      <a href="https://drive.google.com/file/d/1Sch8aTgr6ZPwjF9XDdtq5WjhAfIpfjAw/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1Sch8aTgr6ZPwjF9XDdtq5WjhAfIpfjAw" alt="Login screen" style="max-width:420px; width:100%; height:auto;"/></a>
+      <div style="margin-top:8px; font-weight:700">Login page</div>
+    </td>
+    <td style="vertical-align:top; text-align:center">
+      <a href="assets/images/overview-2.png"><img src="assets/images/overview-2.png" alt="Dashboard overview" style="max-width:420px; width:100%; height:auto;"/></a>
+      <div style="margin-top:8px; font-weight:700">Dashboard overview</div>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align:top; text-align:center">
+      <a href="assets/images/overview-3.png"><img src="assets/images/overview-3.png" alt="Payslips list" style="max-width:420px; width:100%; height:auto;"/></a>
+      <div style="margin-top:8px; font-weight:700">Payslips list</div>
+    </td>
+    <td style="vertical-align:top; text-align:center">
+      <a href="assets/images/overview-4.png"><img src="assets/images/overview-4.png" alt="Payslip details" style="max-width:420px; width:100%; height:auto;"/></a>
+      <div style="margin-top:8px; font-weight:700">Payslip details</div>
+    </td>
+  </tr>
+</table>
 
 🎥Demo video [Click here to watch video](https://drive.google.com/file/d/1jL3xwIz6Eq0CtLZUOTkOcgyuDCJUrE0D/view?usp=drive_link)
-
-<div align="center">
-
-![Login screen](assets/images/overview-1.png)
-*Login page*
-
-![Dashboard overview](assets/images/overview-2.png)
-*Dashboard overview*
-
-![Payslips list](assets/images/overview-3.png)
-*Payslips list*
-
-![Payslip details](assets/images/overview-4.png)
-*Payslip details*
-
-</div>
 
 ## Table of Contents
 
