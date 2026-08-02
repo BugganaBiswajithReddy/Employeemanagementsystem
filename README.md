@@ -2,7 +2,7 @@
 
 # 🧑‍💼 Employee Management System (EMS)
 
-**Manage employees, track attendance, run payroll, and view workforce analytics — with separate admin and employee self-service logins.**
+**Streamline employee management, attendance, payroll, and workforce analytics through a centralized platform.**
 
 </div>
 
