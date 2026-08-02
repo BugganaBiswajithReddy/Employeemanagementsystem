@@ -106,7 +106,7 @@ EMS is built for small teams and organizations that need core HR functionality w
 - [Node.js](https://nodejs.org/) v18+
 - A [Firebase](https://firebase.google.com/) project with Firestore enabled (for persistence — see below)
 - A Firebase api key is needed for the storage of data in cloud or you can just connect your local storage
-- A Gemini api key is required for the project to run or other models make sure to configure them before running this app
+- A Gemini api key is required for the project to run or other equivalent model make sure to configure them before running this app
 
 ## Getting Started
 
