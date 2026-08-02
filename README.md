@@ -10,11 +10,11 @@
 
 ## Overview
 
-Employee Management System (EMS) is a web-based workforce management platform that centralizes employee administration, attendance tracking, payroll processing, project management, reporting, and [...]
+EMS is a single-page React app backed by Firebase Firestore. Admins manage the full employee lifecycle (profiles, attendance, projects, payroll, reports), while employees get their own portal to view their attendance, payslips, and profile. All data syncs to Firestore in real time, so changes made by an admin appear live for anyone else viewing the app.
 
 ## Why EMS?
 
-Employee information is often scattered across spreadsheets and disconnected systems, making workforce management, attendance, payroll, reporting, and analytics difficult to maintain. EMS brings t[...]
+Employee data is often spread across spreadsheets and disconnected systems, making attendance, payroll, and reporting difficult to manage. EMS centralizes workforce operations into one real-time platform, giving administrators a single source of truth while enabling employees to access their own records through a self-service portal.
 
 ## Images
 
@@ -48,6 +48,8 @@ Employee information is often scattered across spreadsheets and disconnected sys
     </td>
   </tr>
 </table>
+
+## Video
 
 🎥Demo video [Click here to watch video](https://drive.google.com/file/d/1jL3xwIz6Eq0CtLZUOTkOcgyuDCJUrE0D/view?usp=drive_link)
 
@@ -216,8 +218,6 @@ Planned enhancements for future releases:
 - 📈 **Performance Reviews** — provide structured employee performance evaluations with goals, feedback, and appraisal tracking.
 - 📂 **Employee Document Management** — securely store and manage employee documents such as ID proofs, contracts, certificates, and other HR records.
 - 🏢 **Multi-Organization Support** — support multiple organizations or business branches within a single platform while maintaining separate employee and payroll data.
-
-## License
 
 ## License
 
