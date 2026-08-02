@@ -15,7 +15,7 @@ EMS is a single-page React app backed by Firebase Firestore. Admins manage the f
 ## Why EMS?
 
 Employee data is often spread across spreadsheets and disconnected systems, making attendance, payroll, and reporting difficult to manage. EMS centralizes workforce operations into one real-time platform, giving administrators a single source of truth while enabling employees to access their own records through a self-service portal.
-Images 
+##Images 
 
 🎥Demo video [Click here to watch video](https://drive.google.com/file/d/1jL3xwIz6Eq0CtLZUOTkOcgyuDCJUrE0D/view?usp=drive_link)
 
