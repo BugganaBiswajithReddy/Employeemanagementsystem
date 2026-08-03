@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧑‍💼 Employee Management System (EMS)
+#  Employee Management System (EMS)
 
 **Streamline employee management, attendance, payroll, and workforce analytics through a centralized platform.**
 
