@@ -10,40 +10,44 @@
 
 ## Overview
 
-EMS is a single-page React app backed by Firebase Firestore. Admins manage the full employee lifecycle (profiles, attendance, projects, payroll, reports), while employees get their own portal to view payslips and attendance.
+EMS is a single-page React app backed by Firebase Firestore. Admins manage the full employee lifecycle (profiles, attendance, projects, payroll, reports), while employees get their own portal to view [...]
 
 ## Why EMS?
 
-Employee data is often spread across spreadsheets and disconnected systems, making attendance, payroll, and reporting difficult to manage. EMS centralizes workforce operations into one real-time platform.
+Employee data is often spread across spreadsheets and disconnected systems, making attendance, payroll, and reporting difficult to manage. EMS centralizes workforce operations into one real-time platf[...] 
 
 ## Images
 
 <table>
   <tr>
     <td style="vertical-align:top; text-align:center">
-      <a href="https://drive.google.com/file/d/1Sch8aTgr6ZPwjF9XDdtq5WjhAfIpfjAw/view?usp=drive_link"><img src="https://drive.google.com/uc?export=view&id=1Sch8aTgr6ZPwjF9XDdtq5WjhAfIpfjAw" alt="Login page" width="280" /></a>
+      <a href="https://drive.google.com/file/d/1Sch8aTgr6ZPwjF9XDdtq5WjhAfIpfjAw/view?usp=drive_link"><img src="https://drive.google.com/uc?export=view&id=1Sch8aTgr6ZPwjF9XDdtq5WjhAfIpfjAw" alt="Login[...]">
       <div style="margin-top:8px; font-weight:700">Login page</div>
     </td>
     <td style="vertical-align:top; text-align:center">
-      <a href="https://drive.google.com/file/d/1mvNUzJqRe0LkTEOkPQUw7hgmbbH4XT4M/view?usp=drive_link"><img src="https://drive.google.com/uc?export=view&id=1mvNUzJqRe0LkTEOkPQUw7hgmbbH4XT4M" alt="Admin dashboard" width="280" /></a>
+      <a href="https://drive.google.com/file/d/1mvNUzJqRe0LkTEOkPQUw7hgmbbH4XT4M/view?usp=drive_link"><img src="https://drive.google.com/uc?export=view&id=1mvNUzJqRe0LkTEOkPQUw7hgmbbH4XT4M" alt="Admin[...]">
       <div style="margin-top:8px; font-weight:700">Admin dashboard</div>
     </td>
     <td style="vertical-align:top; text-align:center">
-      <a href="https://drive.google.com/file/d/1vQRMJe_jVA2OQOR7IjGPHdK-RweHIm40/view?usp=drive_link"><img src="https://drive.google.com/uc?export=view&id=1vQRMJe_jVA2OQOR7IjGPHdK-RweHIm40" alt="Payslip module" width="280" /></a>
+      <a href="https://drive.google.com/file/d/1vQRMJe_jVA2OQOR7IjGPHdK-RweHIm40/view?usp=drive_link"><img src="https://drive.google.com/uc?export=view&id=1vQRMJe_jVA2OQOR7IjGPHdK-RweHIm40" alt="Paysl[...]">
       <div style="margin-top:8px; font-weight:700">Payslip module</div>
     </td>
   </tr>
   <tr>
     <td style="vertical-align:top; text-align:center">
-      <a href="https://github.com/BugganaBiswajithReddy/Employeemanagementsystem/blob/main/images/pay%20slip%20details.png"><img src="https://raw.githubusercontent.com/BugganaBiswajithReddy/Employeemanagementsystem/main/images/pay%20slip%20details.png" alt="Payslip Details" width="280" /></a>
+      <a href="https://drive.google.com/file/d/1awsMF2au2WI2QpdACSjOIRReI_4m-FYN/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1awsMF2au2WI2QpdACSjOIRReI_4m-FYN" alt="New screenshot">
+      <div style="margin-top:8px; font-weight:700">New screenshot</div>
+    </td>
+    <td style="vertical-align:top; text-align:center">
+      <a href="https://github.com/BugganaBiswajithReddy/Employeemanagementsystem/blob/main/images/pay%20slip%20details.png"><img src="https://raw.githubusercontent.com/BugganaBiswajithReddy/Employeemanagementsystem/main/images/pay%20slip%20details.png" alt="Payslip Details">
       <div style="margin-top:8px; font-weight:700">Payslip Details</div>
     </td>
     <td style="vertical-align:top; text-align:center">
-      <a href="https://drive.google.com/file/d/18AExBuE4suc35LkAkjHWHUpI0OpR0ilT/view?usp=drive_link"><img src="https://drive.google.com/uc?export=view&id=18AExBuE4suc35LkAkjHWHUpI0OpR0ilT" alt="Report hub" width="280" /></a>
+      <a href="https://drive.google.com/file/d/18AExBuE4suc35LkAkjHWHUpI0OpR0ilT/view?usp=drive_link"><img src="https://drive.google.com/uc?export=view&id=18AExBuE4suc35LkAkjHWHUpI0OpR0ilT" alt="Repor[...]">
       <div style="margin-top:8px; font-weight:700">Report hub</div>
     </td>
     <td style="vertical-align:top; text-align:center">
-      <a href="https://drive.google.com/file/d/1ijeu8oJUsmxZ4aOmBXUi2vKC3TRL7OT7/view?usp=drive_link"><img src="https://drive.google.com/uc?export=view&id=1ijeu8oJUsmxZ4aOmBXUi2vKC3TRL7OT7" alt="Employee Dashboard" width="280" /></a>
+      <a href="https://drive.google.com/file/d/1ijeu8oJUsmxZ4aOmBXUi2vKC3TRL7OT7/view?usp=drive_link"><img src="https://drive.google.com/uc?export=view&id=1ijeu8oJUsmxZ4aOmBXUi2vKC3TRL7OT7" alt="Emplo[...]">
       <div style="margin-top:8px; font-weight:700">Employee Dashboard</div>
     </td>
   </tr>
@@ -81,7 +85,7 @@ EMS is built for small teams and organizations that need core HR functionality w
 ## Features
 
 - 🔐 **Dual login** — separate Admin and Employee sign-in flows (`UnifiedLogin`), with forced password change on an employee's first login.
-- 🧑‍🤝‍🧑 **Employee management** — add/edit/remove employee profiles: contact info, department, designation, bank details, salary structure (basic, DA, HRA, medical, other allowances)
+- 🧑‍🤝‍🧑 **Employee management** — add/edit/remove employee profiles: contact info, department, designation, bank details, salary structure (basic, DA, HRA, medical, other allowances[...]
 - 🕒 **Attendance tracking** — mark daily attendance per employee (Present, Absent, Leave, Out of Station, Half Day, Late Arrival), with check-in/out times and working hours.
 - 📁 **Projects** — create projects, assign employees, and track status (Not Started, In Progress, On Hold, Completed).
 - 💵 **Payroll / payslips** — auto-calculated payslips derived from attendance records over a date range (payable days, total earnings, deductions, net salary) with payment status tracking.
@@ -120,7 +124,7 @@ npm install
 # 3. Configure Firebase
 ```
 
-Replace the placeholder values in `firebase-applet-config.json` with your own Firebase web app config (Firebase Console → Project Settings → General → Your apps), and deploy `firestore.rules` accordingly.
+Replace the placeholder values in `firebase-applet-config.json` with your own Firebase web app config (Firebase Console → Project Settings → General → Your apps), and deploy `firestore.rule[...]`
 
 ```bash
 # 4. Run the app
@@ -129,7 +133,7 @@ npm run dev
 
 The app runs at **http://localhost:3000**.
 
-**Default admin login:** `admin` / `password123` (set on first run — change it immediately via Settings once you're in). Employee accounts default to `password123` until an employee sets their own password.
+**Default admin login:** `admin` / `password123` (set on first run — change it immediately via Settings once you're in). Employee accounts default to `password123` until an employee sets their own p[...]
 
 ## Available Scripts
 
@@ -177,27 +181,27 @@ employee-management-system/
 
 ## Challenges & Learnings
 
-Building the Employee Management System involved more than implementing features—it required designing a scalable application capable of managing multiple HR workflows while maintaining a simple and intuitive user experience.
+Building the Employee Management System involved more than implementing features—it required designing a scalable application capable of managing multiple HR workflows while maintaining a simple and[...]
 
 ### Firestore Data Modeling
 
-Designing a scalable Firestore data model was one of the primary challenges. The application stores employees, attendance, payroll, reports, projects, and authentication data across multiple collections.
+Designing a scalable Firestore data model was one of the primary challenges. The application stores employees, attendance, payroll, reports, projects, and authentication data across multiple collectio[...]
 
 ### Role-Based Access
 
-The application supports separate Administrator and Employee portals. Designing the application to provide different permissions and interfaces while sharing the same underlying data required implementing granular access control.
+The application supports separate Administrator and Employee portals. Designing the application to provide different permissions and interfaces while sharing the same underlying data required implemen[...]
 
 ### Payroll & Attendance Integration
 
-Generating payroll required combining attendance records with employee salary structures, allowances, deductions, and payable working days. Building this workflow helped in designing business logic that handles edge cases such as unpaid leaves and half-days.
+Generating payroll required combining attendance records with employee salary structures, allowances, deductions, and payable working days. Building this workflow helped in designing business logic th[...]
 
 ### Real-Time Synchronization
 
-Ensuring that updates made by administrators were reflected instantly across the application was another important challenge. Firestore's real-time listeners were used to synchronize employee records and payslips across sessions.
+Ensuring that updates made by administrators were reflected instantly across the application was another important challenge. Firestore's real-time listeners were used to synchronize employee records [...]
 
 ### Building a Modular Application
 
-As the project grew, maintaining clean and reusable code became increasingly important. The application was organized into reusable React components and separate utility modules, making it easier to onboard new contributors and add features.
+As the project grew, maintaining clean and reusable code became increasingly important. The application was organized into reusable React components and separate utility modules, making it easier to o[...]
 
 ### Key Learnings
 
