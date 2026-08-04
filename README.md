@@ -35,6 +35,9 @@ Employee data is often spread across spreadsheets and disconnected systems, maki
   </tr>
   <tr>
     <td style="vertical-align:top; text-align:center">
+      <a href="https://github.com/BugganaBiswajithReddy/Employeemanagementsystem/blob/main/images/pay%20slip%20details.png">
+  <img src="https://raw.githubusercontent.com/BugganaBiswajithReddy/Employeemanagementsystem/main/images/pay%20slip%20details.png" alt="Payslip Details" width="280" />
+</a>
       <a href="https://github.com/BugganaBiswajithReddy/Employeemanagementsystem/blob/main/images/pay%20slip%20details.png"><img src="https://raw.githubusercontent.com/BugganaBiswajithReddy/Employeemanagementsystem/main/images/pay%20slip%20details.png" alt="Payslip Details" width="280" /></a>
       <div style="margin-top:8px; font-weight:700">Payslip Details</div>
     </td>
